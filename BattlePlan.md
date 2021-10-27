@@ -12,7 +12,7 @@ We intend to use this document as an overview of the effort our team members ded
 
 ## Nomenclature
 
-### [Activity areas](#Activity-areas)
+### Activity areas
 
 To better communicate between ourselves, we'll define the term activity areas to be the top-most level of grouping different types of activities. Each area should be orthogonal to any other area, i.e., there is no overlap in terms of action, although there may be conceptual overlaps, e.g., funding may dictate feature development.
 
@@ -60,7 +60,7 @@ Additionally, [Coordinators](#Coordinators) should also keep their [activity are
 
 Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in the title of the [Activity areas](#Activity-areas)/[Activities](#Activities); in this way, it is possible to get an overview of the assigned people from the ToC (once that is working).
 
-## [Activity areas](#Activity-areas)
+## Activity areas
 
 ### Documentation - Kevin Cowan
 
@@ -167,8 +167,11 @@ Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in 
 
 #### Strategy and funding - João Encarnação
 
-** Description: Long-term planning, development directions, what features to not develop, securing people and funding to reach the planned objectives
-** Resources:
+
+#### Activity: Strategy and funding - João Encarnação
+
+**Description:** Long-term planning, development directions, what features to not develop, securing people and funding to reach the planned objectives
+**Resources:**
 * TBD
 
 #### Outreach - TBD
