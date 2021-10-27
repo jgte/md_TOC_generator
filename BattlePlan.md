@@ -32,7 +32,7 @@ Under each activity, there are *tasks*. These are usually very technical in thei
 
 ## Conflicts
 
-This document does not intend to duplicate with the Kanban boards. Those are activity-specific tasks and are used to coordinate their progress. In slack, these boards are also called "Task trackers", see [this post by Fillippo](https://tudat.slack.com/archives/C0202QZAQFK/p1620420704058700). Coordination of [Activities](Activities) is highly encouraged to take place in the project boards. Here, we're making an inventory of those Activities from a higher level, without going into much detail as to technical implementations or planning.
+This document does not intend to duplicate with the Kanban boards. Those are activity-specific tasks and are used to coordinate their progress. In slack, these boards are also called "Task trackers", see [this post by Fillippo](https://tudat.slack.com/archives/C0202QZAQFK/p1620420704058700). Coordination of [Activities](#Activities) is highly encouraged to take place in the project boards. Here, we're making an inventory of those Activities from a higher level, without going into much detail as to technical implementations or planning.
 
 ## Roles
 
