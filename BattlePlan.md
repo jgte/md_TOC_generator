@@ -1,5 +1,14 @@
 # Tudat battle plan
 
+## TL;DR
+
+* This living document:
+  * connects activities to people
+  * lists all relevant online resources
+* There are [Activity Areas](#Activity-areas) that group [Activities](#Activities)
+* Each [Activity Areas](#Activity-areas) has one [Coordinator](#Coordinator)
+* Each [Activity](#Activity) has one [Activity leaders](#Activity-leaders)
+
 ## Introduction
 
 This document connects Tudat team members to topics of activity. It is both a list of activities and it designates people to coordinate those activities. It is not a mandate (forcing people to take action), it is a map (connecting people to activities). If you are assigned to an activity that you do not want to be part of, remove yourself from it (but let others know the activity needs attention). 
