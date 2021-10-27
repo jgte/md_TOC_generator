@@ -2,12 +2,12 @@
 
 ## TL;DR
 
-* This living document:
-  * connects activities to people
-  * lists all relevant online resources
-* There are [Activity Areas](#Activity-areas) that group [Activities](#Activities)
-* Each [Activity Areas](#Activity-areas) has one [Coordinator](#Coordinator)
-* Each [Activity](#Activity) has one [Activity leaders](#Activity-leaders)
+* This living document is the on-boarding document for Tudat team members who take part in management activities, including code management
+* Given the wide scope, this document people to these activities and lists all relevant online resources
+* There are [Activity Areas](#Activity-Areas) that group [Activities](#Activities)
+* Each [Activity Areas](#Activity-Areas) has one [Coordinator](#Coordinator)
+* Each [Activity](#Activity) has one [Activity Leaders](#Activity-Leaders)
+* Check the [List of Activity Areas](#List-of-Activity-Areas) 
 
 ## Introduction
 
@@ -23,19 +23,19 @@ We intend to use this document as an overview of the effort our team members ded
 
 ## Nomenclature
 
-### Activity areas
+### Activity Areas
 
 To better communicate between ourselves, we'll define the term activity areas to be the top-most level of grouping different types of activities. Each area should be orthogonal to any other area, i.e., there is no overlap in terms of action, although there may be conceptual overlaps, e.g., funding may dictate feature development.
 
-Ideally, each [activity area](#Activity-areas) would map directly to one of the [Kanban boards](https://github.com/orgs/tudat-team/projects). This is, however, not necessary (see [Activities](#Activities), below).
+Ideally, each [activity area](#Activity-Areas) would map directly to one of the [Kanban boards](https://github.com/orgs/tudat-team/projects). This is, however, not necessary (see [Activities](#Activities), below). For more information, check the [Kanban board use guidelines](https://github.com/tudat-team/project-management/blob/main/Kanban.md).
 
 ### Activities
 
-Under each [activity area](#Activity-areas), there are *Activities*; for example if an [activity area](#Activity-areas) is *Development*, an activity could be *Refactoring*. These are a collection of tasks that aim at a specific purpose that generally falls within the [activity area](#Activity-areas). 
+Under each [activity area](#Activity-Areas), there are *Activities*; for example if an [activity area](#Activity-Areas) is *Development*, an activity could be *Refactoring*. These are a collection of tasks that aim at a specific purpose that generally falls within the [activity area](#Activity-Areas). 
 Any of these names are up for grabs. If you have a better name, just edit this document. The main purpose is to be clear and easy to communicate between ourselves.
 Populate Activities with a description, status and resources that allow a new contributor to easily pick up this activity.
 
-Instead of linking an [Activity Area](#Activity-areas) to a Kanban board (see above), it may make more sense for a Kanban board to relate to a specific Activity. This makes particularly sense when an Activity requires numerous tasks, which would otherwise overwhelm the Kanban board associated with the [Activity Area](#Activity-areas).
+Instead of linking an [Activity Area](#Activity-Areas) to a Kanban board (see above), it may make more sense for a Kanban board to relate to a specific Activity. This makes particularly sense when an Activity requires numerous tasks, which would otherwise overwhelm the Kanban board associated with the [Activity Area](#Activity-Areas).
 
 ### Tasks
 
@@ -49,29 +49,32 @@ This document does not intend to duplicate with the Kanban boards. Those are act
 
 ### Coordinators
 
-We intend to have one *Coordinator* per [activity area](#Activity-areas). This person is the administrator, point of contact, and/or any other role that sits in a position with a vantage point to aggregate knowledge of what was, is, and will be taking place within a certain [activity area](#Activity-areas). The Coordinator should not, in general, make unilateral decisions, but should instead coordinate an appropriate level of consensus among the necessary stakeholders.
-The roles tend to be assigned to people who, for one reason or another, are most likely to remain associated with Tudat over a (sufficiently) long period of time. Below, the Coordinators' names follow the [activity area](#Activity-areas) titles to make their role as prominent as possible.
+We intend to have one *Coordinator* per [activity area](#Activity-Areas). This person is the administrator, point of contact, and/or any other role that sits in a position with a vantage point to aggregate knowledge of what was, is, and will be taking place within a certain [activity area](#Activity-Areas). The Coordinator should not, in general, make unilateral decisions, but should instead coordinate an appropriate level of consensus among the necessary stakeholders.
+The roles tend to be assigned to people who, for one reason or another, are most likely to remain associated with Tudat over a (sufficiently) long period of time. Below, the Coordinators' names follow the [activity area](#Activity-Areas) titles to make their role as prominent as possible.
 
-### Activity leaders
+### Activity Leaders
 
 We intend to assign people to coordinate each activity. These are people who are coordinating the (technical) work and maintain the overview and knowledge of the progress of all tasks within each activity. They tend to be (heavily) involved in doing the work (i.e. the tasks within an activity), but this is not mandatory; you can have an activity leader who is only coordinating the tasks. It would be most favourable if each Tudat team member is assigned a very limited number of current [Activities](#Activities), at most 2, so that they can focus their attention more effectively. Below, the activity leaders' names follow the activity titles to make their role as prominent as possible.
 
 ### Aditional comments
 
-Although, it is necessary to have [activity areas](#Activity-areas) with [Coordinators](#Coordinators) (otherwise there is a collection of [Activities](#Activities) that lack coordination), it is not necessary to have a leader for each activity. There can be [Activities](#Activities) that are dormant, for whatever reason, but are important enough to be part of Tudat's roster of desirable [Activities](#Activities). In the future, these could be used as an evolving roadmap
+Although, it is necessary to have [activity areas](#Activity-Areas) with [Coordinators](#Coordinators) (otherwise there is a collection of [Activities](#Activities) that lack coordination), it is not necessary to have a leader for each activity. There can be [Activities](#Activities) that are dormant, for whatever reason, but are important enough to be part of Tudat's roster of desirable [Activities](#Activities). In the future, these could be used as an evolving roadmap
 
 ## Workflow
 
-Anyone can edit this document, but the [Coordinator](#Coordinators) of the Project Management [activity area](#Activity-areas) is ultimately responsible for keeping it up to date. By design, there are not many details that need to be maintained; those are (relevant to both [activity areas](#Activity-areas) or [Activities](#Activities)):
+Anyone can edit this document, but the [Coordinator](#Coordinators) of the Project Management [activity area](#Activity-Areas) is ultimately responsible for keeping it up to date. By design, there are not many details that need to be maintained; those are (relevant to both [activity areas](#Activity-Areas) or [Activities](#Activities)):
 1. Addition or suppression 
 2. Updating the description and resource list
 3. Updating the status (relevant only to [Activities](#Activities))
 
-Additionally, [Coordinators](#Coordinators) should also keep their [activity area](#Activity-areas) updated in this document, but this does not preclude the [Coordinator](#Coordinators) of the Project Management [activity area](#Activity-areas) from his/her responsibility to this role.
+The day-to-day activity should be recorded in the [Kanban boards](https://github.com/orgs/tudat-team/projects). This document should only be edited (amongst others):
+* at major milestones (e.g., when [Activities](#Activities) are concluded),
+* by [Coordinators](#Coordinators)/[Activity Leaders](#Activity-Leaders), when updating their [activity area](#Activity-Areas)/[Activity](#Activities) (notably resources and description),
+* following a group decision regarding re-structuring [Activity Areas](#Activity-Areas), [Activities](#Activities), [Coordinators](#Coordinators) or [Activity Leaders](#Activity-Leaders).
 
-Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in the title of the [Activity areas](#Activity-areas)/[Activities](#Activities); in this way, it is possible to get an overview of the assigned people from the ToC (once that is working).
+Keep the [Coordinators](#Coordinators)/[Activity Leaders](#Activity-Leaders) in the title of the [Activity Areas](#Activity-Areas)/[Activities](#Activities); in this way, it is possible to get an overview of the assigned people from the ToC (once that is working).
 
-## Activity areas
+## List of Activity Areas
 
 ### Documentation - Kevin Cowan
 
