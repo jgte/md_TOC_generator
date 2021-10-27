@@ -165,7 +165,12 @@ Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in 
 * [project-management](https://github.com/tudat-team/project-management) repository
 * [Project Management](https://github.com/orgs/tudat-team/projects/8) Kanban board
 
-#### Strategy and funding - João Encarnação
+#### Activity: Management
+**Description:** Creating support documentation, procedure, guidelines
+**Resources:**
+* [Slack use guidelines](https://tudat.slack.com/archives/C0202QZAQFK/p1619268738016700)
+* Core-dev onboarding document (TBA)
+* Developer onboarding document (TBA)
 
 
 #### Activity: Strategy and funding - João Encarnação
