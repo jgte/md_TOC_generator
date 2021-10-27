@@ -56,7 +56,7 @@ The roles tend to be assigned to people who, for one reason or another, are most
 
 We intend to assign people to coordinate each activity. These are people who are coordinating the (technical) work and maintain the overview and knowledge of the progress of all tasks within each activity. They tend to be (heavily) involved in doing the work (i.e. the tasks within an activity), but this is not mandatory; you can have an activity leader who is only coordinating the tasks. It would be most favourable if each Tudat team member is assigned a very limited number of current [Activities](#Activities), at most 2, so that they can focus their attention more effectively. Below, the activity leaders' names follow the activity titles to make their role as prominent as possible.
 
-### Aditional comments
+### Additional comments
 
 Although, it is necessary to have [activity areas](#Activity-Areas) with [Coordinators](#Coordinators) (otherwise there is a collection of [Activities](#Activities) that lack coordination), it is not necessary to have a leader for each activity. There can be [Activities](#Activities) that are dormant, for whatever reason, but are important enough to be part of Tudat's roster of desirable [Activities](#Activities). In the future, these could be used as an evolving roadmap
 
