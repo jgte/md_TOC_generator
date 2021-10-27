@@ -47,18 +47,18 @@ We intend to assign people to coordinate each activity. These are people who are
 
 ### Aditional comments
 
-Although, it is necessary to have [activity areas](#Activity-areas) with Coordinators (otherwise there is a collection of [Activities](#Activities) that lack coordination), it is not necessary to have a leader for each activity. There can be [Activities](#Activities) that are dormant, for whatever reason, but are important enough to be part of Tudat's roster of desirable [Activities](#Activities). In the future, these could be used as an evolving roadmap
+Although, it is necessary to have [activity areas](#Activity-areas) with [Coordinators](#Coordinators) (otherwise there is a collection of [Activities](#Activities) that lack coordination), it is not necessary to have a leader for each activity. There can be [Activities](#Activities) that are dormant, for whatever reason, but are important enough to be part of Tudat's roster of desirable [Activities](#Activities). In the future, these could be used as an evolving roadmap
 
 ## Workflow
 
-Anyone can edit this document, but the Coordinator of the Project Management [activity area](#Activity-areas) is ultimately responsible for keeping it up to date. By design, there are not many details that need to be maintained; those are (relevant to both [activity areas](#Activity-areas) or [Activities](#Activities)):
+Anyone can edit this document, but the [Coordinator](#Coordinators) of the Project Management [activity area](#Activity-areas) is ultimately responsible for keeping it up to date. By design, there are not many details that need to be maintained; those are (relevant to both [activity areas](#Activity-areas) or [Activities](#Activities)):
 1. Addition or suppression 
 2. Updating the description and resource list
 3. Updating the status (relevant only to [Activities](#Activities))
 
-Additionally, Coordinators should also keep their [activity area](#Activity-areas) updated in this document, but this does not preclude the Coordinator of the Project Management [activity area](#Activity-areas) from his/her responsibility to this role.
+Additionally, [Coordinators](#Coordinators) should also keep their [activity area](#Activity-areas) updated in this document, but this does not preclude the [Coordinator](#Coordinators) of the Project Management [activity area](#Activity-areas) from his/her responsibility to this role.
 
-Keep the Coordinators/Activity leaders in the title of the [Activity areas](#Activity-areas)/[Activities](#Activities); in this way, it is possible to get an overview of the assigned people from the ToC (once that is working).
+Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in the title of the [Activity areas](#Activity-areas)/[Activities](#Activities); in this way, it is possible to get an overview of the assigned people from the ToC (once that is working).
 
 ## [Activity areas](#Activity-areas)
 
