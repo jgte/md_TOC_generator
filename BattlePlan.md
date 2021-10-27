@@ -72,7 +72,7 @@ Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in 
 * [tudatpy-examples](https://github.com/tudat-team/tudatpy-examples) repository
 * [tudatpy-tutorials-binder](https://github.com/tudat-team/tudatpy-tutorials-binder) repository
 
-#### User documentation - Jonas Hener, Filippo Oggionni
+#### Activity: User documentation - Jonas Hener, Fillippo Oggionni
 
 **Description:** API and algorithm documentation, user oriented, attractive, easy to read, largely immutable, describes how to use existing facilities in Tudat, autocompletion in PyCharm.
 **Status:** TBD
@@ -83,7 +83,7 @@ Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in 
 * [https://tudat.slack.com/archives/C01NSEK6CLC/p1620655705006500](https://tudat.slack.com/archives/C01NSEK6CLC/p1620655705006500)
 * [User Documentation Board](https://github.com/orgs/tudat-team/projects/9)
 
-#### Developer documentation - Filippo Oggionni, Geoffrey Garrett (Dominic Dirkx)
+#### Activity: Developer documentation - Fillippo Oggionni, Geoffrey Garrett (Dominic Dirkx)
 
 **Description:** Guides, tips and tricks, development resources, useful links, describes how to develop new features in Tudat and records how existing ones are set up, how to expose C++ code to python.
 **Status:** TBD
@@ -93,7 +93,7 @@ Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in 
 * [tudat-developer-docs repository](https://github.com/tudat-team/tudat-developer-docs)
 * [developer-primer repository](https://github.com/tudat-team/developer-primer)
 
-#### Code browser - João Encarnação
+#### Activity: Code browser - João Encarnação
 
 **Description:** doxygen-generated interactive code, possibly to be added to the developer documentation
 **Status:** To be initiated
@@ -106,7 +106,7 @@ Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in 
 **Resources:**
 * [tudat](https://github.com/tudat-team/tudat) repository
 
-### Maintenance and refactoring, Estimation code - Dominic Dirkx
+### Activity: Maintenance and refactoring, Estimation code - Dominic Dirkx
 
 **Description:** a significant rewrite of the interfaces of the estimation framework in Tudat.
 **Status:** observation model creation and observation simulation input close to finished. Observation output data and metadata handling not yet started.
@@ -114,21 +114,21 @@ Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in 
 * [Estimation Refactoring project board](https://github.com/orgs/tudat-team/projects/7)
 * [https://github.com/tudat-team/tudat/tree/feature/esimation_refactor](https://github.com/tudat-team/tudat/tree/feature/esimation_refactor)
 
-#### Maintenance and refactoring, MGA-DSM - Dominic Dirkx
+#### Activity: Maintenance and refactoring, MGA-DSM - Dominic Dirkx
 
 **Description:** Refactoring of interplanetary trajectory design, to allow for more flexible and module code use. 
 **Status:** Initial version of code is finished, Python interfaces are not quite up to date with latest C++ version, documentation not yet present.
 **Resources:**
 * [https://github.com/tudat-team/tudat/tree/feature/mga_dsm_refactor_new](https://github.com/tudat-team/tudat/tree/feature/mga_dsm_refactor_new)
 
-#### Maintenance and refactoring, Low-thrust - Dominic Dirkx
+#### Activity: Maintenance and refactoring, Low-thrust - Dominic Dirkx
 
 **Description:** refactoring of low-thrust trajectory design code, to be consistent with the MGA-DSM framework above. Will allow for combination of low- and high-thrust legs with (un)powered flybys
 **Status:** Holographic shaping and spherical shaping code largely refactored to allow for compatibility with new framework
 **Resources:**
 * [https://github.com/tudat-team/tudat/tree/feature/low_thrust_leg_refactor](https://github.com/tudat-team/tudat/tree/feature/low_thrust_leg_refactor)
 
-#### Testing
+#### Activity: Testing
 
 **Description:** set up and development of tools to certify Tudat runs as expected in the supported OSs
 **Resources:**
@@ -153,7 +153,8 @@ Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in 
 * [tudat-team/status](https://github.com/tudat-team/status) repository
 * [test-feedstock](https://github.com/tudat-team/test-feedstock) repository
 
-#### Exposing C++ to TudatPy - TBD
+#### Activity: Exposing C++ to TudatPy - TBD
+
 **Description:** ensuring all features present in the C++ code are available in the python interface
 **Resources:**
 * TBD
@@ -179,7 +180,8 @@ Keep the [Coordinators](#Coordinators)/[Activity leaders](#Activity-leaders) in 
 **Resources:**
 * TBD
 
-#### Outreach - TBD
+#### Activity: Outreach - TBD
+
 **Description:** Efforts to make Tudat known to the student, researcher, programming community, and scientific community
 **Resources:**
 * [https://tudat.slack.com/archives/C0202QZAQFK/p1619090877001800](https://tudat.slack.com/archives/C0202QZAQFK/p1619090877001800)
