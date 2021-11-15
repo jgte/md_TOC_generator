@@ -30,6 +30,7 @@ It is up to the [Coordinator](https://github.com/tudat-team/project-management/b
 
 * To Do
 * In progress
+* Undergoing review
 * Done
 
 or
@@ -43,6 +44,13 @@ or
 or any other setup. The [Coordinator](https://github.com/tudat-team/project-management/blob/main/BattlePlan.md#Coordinators) also defines the maximum number of cards in each Column (if he/she so desires), which has to be done informally because it does not seem to be implemented in GitHub.
 
 When a new [Activity](https://github.com/tudat-team/project-management/blob/main/BattlePlan.md#Activities) is identified, it should be added to the [Battle Plan](https://github.com/tudat-team/project-management/blob/main/BattlePlan) and a Kanban card (or more) created in the corresponding Kanban board. From here onwards, it is up to the corresponding [Activity Leader](https://github.com/tudat-team/project-management/blob/main/BattlePlan.md#Activity-Leaders) to move the card through the Columns. In principle, there is no need for the [Activity Leader](https://github.com/tudat-team/project-management/blob/main/BattlePlan.md#Activity-Leaders) to notify the [Coordinator](https://github.com/tudat-team/project-management/blob/main/BattlePlan.md#Coordinators) of changes in the Kanban board, it is up to the latter to maintain an eye on the progress of this [Activity Area](https://github.com/tudat-team/project-management/blob/main/BattlePlan.md#Activity-Areas).
+
+Summarizing, the workflow is the following:
+1. Create issue in Kanban board regarding a particular topic and connect it to the appropriate Kanban board
+2. Create a `feature/<topic>` branch (where `<topic>` should be replaced by the topic you are working on), note it in the issue and move the card issue in the Kanban board to the “In progress” column (tip: moving cards around columns in Kanban boards can be done directly from the issue, by modifying the triage status under “Projects” on the right-side of the issue page)
+3. Develop code/material and iterate on the issue (for updates or short discussions) or on Slack (for longer or private discussions)
+4. Once the code is ready for review, open a pull request to merge the feature branch, link the pull request to the issue, assign a reviewer, and move the issue   card into the “Undergoing review” column
+5. After the review is finished, the reviewer (or the author, if the reviewer confirms) can merge and close both the pull request and the issue (if the pull request is linked to an issue, merging a pull request will automatically close the issue). Don’t forget to finally move the issue card into the “Done” column of the Kanban board
 
 ## Duplication of work
 
