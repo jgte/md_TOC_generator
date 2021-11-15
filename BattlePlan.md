@@ -148,7 +148,7 @@ Keep the [Coordinators](#Coordinators)/[Activity Leaders](#Activity-Leaders) in 
 **Resources:**
 * TBD
 
-### Ecosystem - Geoffrey Garret
+### Ecosystem - Geoffrey Garrett
 
 **Description:** development of the connection between python and the C++ code and all the voodoo behind conda packaging, user-removed build procedure, or anything related to increasing the ease of use, access, reach, and universality of Tudat.
 **Resources:**
