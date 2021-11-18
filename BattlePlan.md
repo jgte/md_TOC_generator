@@ -86,7 +86,7 @@ Keep the [Coordinators](#Coordinators)/[Activity Leaders](#Activity-Leaders) in 
 * [tudatpy-examples](https://github.com/tudat-team/tudatpy-examples) repository
 * [tudatpy-tutorials-binder](https://github.com/tudat-team/tudatpy-tutorials-binder) repository
 
-#### Activity: User documentation - Jonas Hener, Fillippo Oggionni
+#### Activity: User documentation - Jonas Hener, Fillippo Oggionni, Miguel Avillez, Maarten van Nistelrooij
 
 **Description:** API and algorithm documentation, user oriented, attractive, easy to read, largely immutable, describes how to use existing facilities in Tudat, autocompletion in PyCharm.
 **Status:** TBD
