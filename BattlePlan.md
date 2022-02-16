@@ -35,15 +35,15 @@ Under each [activity area](#Activity-Areas), there are *Activities*; for example
 Any of these names are up for grabs. If you have a better name, just edit this document. The main purpose is to be clear and easy to communicate between ourselves.
 Populate Activities with a description, status and resources that allow a new contributor to easily pick up this activity.
 
-Instead of linking an [Activity Area](#Activity-Areas) to a Kanban board (see above), it may make more sense for a Kanban board to relate to a specific Activity. This makes particularly sense when an Activity requires numerous tasks, which would otherwise overwhelm the Kanban board associated with the [Activity Area](#Activity-Areas).
+Instead of linking an [Activity Area](#Activity-Areas) to a Kanban board (see above), it may make more sense for a Kanban board to relate to a specific Activity. This makes particularly sense when an Activity requires numerous tasks, which would otherwise overwhelm the Kanban board associated with the [Activity Area](#Activity-Areas). An example of this is [Estimation Refactoring](https://github.com/orgs/tudat-team/projects/7).
 
 ### Tasks
 
-Under each activity, there are *tasks*. These are usually very technical in their nature, specific to each activity and outside the scope of this document. We use the [Kanban boards](https://github.com/orgs/tudat-team/projects) to keep track of tasks.
+Under each activity, there are *tasks*. These are usually very technical in their nature, specific to each activity and outside the scope of this document. We use the [Kanban boards](https://github.com/tudat-team/project-management/blob/main/Kanban.md) to keep track of tasks.
 
 ## Conflicts
 
-This document does not intend to duplicate with the Kanban boards. Those are activity-specific tasks and are used to coordinate their progress. In slack, these boards are also called "Task trackers", see [this post by Fillippo](https://tudat.slack.com/archives/C0202QZAQFK/p1620420704058700). Coordination of [Activities](#Activities) is highly encouraged to take place in the project boards. Here, we're making an inventory of those [Activities](#Activities) from a higher level, without going into much detail as to technical implementations or planning.
+This document does not intend to duplicate with the Kanban boards. Those are activity-specific tasks and are used to coordinate their progress. In slack, these boards are also called "Task trackers", see [this post by Fillippo](https://tudat.slack.com/archives/C0202QZAQFK/p1620420704058700). Coordination of [Activities](#Activities) is highly encouraged to take place in the Kanban boards. Here, we're making an inventory of those [Activities](#Activities) from a higher level, without going into much detail as to technical implementations or planning.
 
 ## Roles
 
@@ -186,7 +186,7 @@ Keep the [Coordinators](#Coordinators)/[Activity Leaders](#Activity-Leaders) in 
 **Resources:**
 * [Slack use guidelines](https://tudat.slack.com/archives/C0202QZAQFK/p1619268738016700)
 * [Kanban boards use guidelines](https://github.com/tudat-team/project-management/blob/main/Kanban.md)
-* Core-dev onboarding document (TBA)
+* [Core-dev onboarding document](https://github.com/tudat-team/project-management/blob/main/BattlePlan.md)
 * Developer onboarding document (TBA)
 
 
