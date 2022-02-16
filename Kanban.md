@@ -30,6 +30,7 @@ It is up to the [Coordinator](https://github.com/tudat-team/project-management/b
 
 * To Do
 * In progress
+* Undergoing review
 * Done
 
 or
@@ -49,6 +50,13 @@ When a new [Activity](https://github.com/tudat-team/project-management/blob/main
 It is recommended we connect a GitHub issue to the Kanban board card. Generally, once that issue is closed, the card should be moved to the last column of the Kanban board.
 
 The issues that are relevant to connect to cards describe the progress of an [Activity](https://github.com/tudat-team/project-management/blob/main/BattlePlan.md#Activities). They should not relate to a bug in the code or any other technical issue that does not transpire to the [Activity's](https://github.com/tudat-team/project-management/blob/main/BattlePlan.md#Activities) progress. These should not be connected with the Kanban boards (as they are now envisioned; later on we may have an [Activity Area](https://github.com/tudat-team/project-management/blob/main/BattlePlan.md#Activity-Areas) which focuses on fixing bugs).
+
+Summarizing, the workflow is the following:
+1. Create issue in Kanban board regarding a particular topic and connect it to the appropriate Kanban board
+2. Create a `feature/<topic>` branch (where `<topic>` should be replaced by the topic you are working on), note it in the issue and move the card issue in the Kanban board to the “In progress” column (tip: moving cards around columns in Kanban boards can be done directly from the issue, by modifying the triage status under “Projects” on the right-side of the issue page)
+3. Develop code/material and iterate on the issue (for updates or short discussions) or on Slack (for longer or private discussions)
+4. Once the code is ready for review, open a pull request to merge the feature branch, link the pull request to the issue, assign a reviewer, and move the issue   card into the “Undergoing review” column
+5. After the review is finished, the reviewer (or the author, if the reviewer confirms) can merge and close both the pull request and the issue (if the pull request is linked to an issue, merging a pull request will automatically close the issue). Don’t forget to finally move the issue card into the “Done” column of the Kanban board
 
 ## Duplication of work
 
