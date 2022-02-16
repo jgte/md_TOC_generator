@@ -1,0 +1,2 @@
+#NOTICE: if you expect to be contributing to a repository, fork it and set that as the remote; otherwise you won't be able to push nor make pull requests
+--prefix=packages/md_TOC_generator https://github.com/jgte/md_TOC_generator.git master
